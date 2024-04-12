@@ -1,6 +1,6 @@
 ## Overview
 
-**Dexter** stands as the link connecting the immersive browser-based basketball simulation game, [Basketball-GM](https://play.basketball-gm.com/), with multiplayer leagues being run over the web using Discord. In the realm of Basketball-GM, there is a vibrant multiplayer community which thrives on strategy, competition, and collaboration. The absence of a natural multiplayer feature within Basketball-GM is challenge for most. Dexter not only fills this void but elevates the multiplayer league experience to new heights.
+**Dexter** stands as the link connecting the immersive browser-based basketball simulation game, [Basketball-GM](https://play.basketball-gm.com/), with dozens of multiplayer leagues being run over Discord servers. In the realm of Basketball-GM, there is large, dedicated community which thrives on strategy, competition, and collaboration. The absence of a natural multiplayer feature within Basketball-GM is challenge for most. Dexter not only fills this void but elevates the multiplayer league experience to new heights.
 
 ![Dexter](/public/dexter-example.png)
 
@@ -9,17 +9,17 @@ Dexter empowers users to take control of their teams and engage with their leagu
 ### Features
 
 - **Team Management Made Easy**
-        - Access detailed **team information** including rosters, payroll, and players.
-        - **Directly manage your team** with capabilities to make free agency offers, waive and trade players, and edit player positions.
+  - Access detailed **team information** including rosters, payroll, and players.
+  - **Directly manage your team** with capabilities to make free agency offers, waive and trade players, and edit player positions.
 
 - **Built-In Free Agency Algorithm**
-        - Free Agency offers made by teams are placed into a weight-based algorithm that decides where players will sign based on various factors about the player, teams, and current state of the game.
+  - Free Agency offers made by teams are placed into a weight-based algorithm that decides where players will sign based on various factors about the player, teams, and current state of the game.
 
 - **In-depth Player Insights**
-        - View comprehensive player information, encompassing statistical data and skills.
+  - View comprehensive player information, encompassing statistical data and skills.
 
 - **League Information on Demand**
-        - Get up-to-date **league information**, including Luxury Tax and MLE (Mid-Level Exception) amounts, roster limits, and more.
+  - Get up-to-date **league information**, including Luxury Tax and MLE (Mid-Level Exception) amounts, roster limits, and more.
 
 ---
 ### Tools for League Managers
@@ -35,7 +35,6 @@ Dexter isn't just for players. League Managers gain access to powerful tools des
 ---
 
 ## What it's composed of
-- **Programming Language:** TypeScript
+- **Frameworks:** Node.js, Typescript
 - **Database Management:** PostgreSQL
 - **Caching Solution:** Redis
-- **Backend Framework:** Node.js
