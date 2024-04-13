@@ -2,7 +2,7 @@
 
 **Dexter** stands as the link connecting the immersive browser-based basketball simulation game, [Basketball-GM](https://play.basketball-gm.com/), with multiplayer leagues being run over the web using Discord. In the realm of Basketball-GM, there is a vibrant multiplayer community which thrives on strategy, competition, and collaboration. The absence of a natural multiplayer feature within Basketball-GM is challenge for most. Dexter not only fills this void but elevates the multiplayer league experience to new heights.
 
-![Dexter](/public/dexter-example.png)
+![Dexter](./dexter-example.png)
 
 Dexter empowers users to take control of their teams and engage with their leagues in unprecedented ways. From making real-time management decisions to interacting with league dynamics, Dexter transforms how players and managers alike participate in the game, ensuring a seamless, interactive, and enriched Basketball-GM experience.
 
